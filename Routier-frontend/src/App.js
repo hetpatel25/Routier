@@ -79,8 +79,9 @@ function App() {
             <Route path="/place/:placeid/hotels/siteinfo/:siteid" element={<SiteInfo type="hotels" createNotification={createNotification} setProgress={setProgress} />} />
             <Route path="/place/:placeid/restaurants/siteinfo/:siteid" element={<SiteInfo type="restaurants" createNotification={createNotification} setProgress={setProgress} />} />
             <Route path="/aboutus" element={<Aboutus createNotification={createNotification} setProgress={setProgress} />} />
-            <Route path="/profile" element={<Profile createNotification={createNotification} setProgress={setProgress} />} />
             <Route path="/givereview/:id" element={<Review createNotification={createNotification} setProgress={setProgress} />} />
+            <Route path="/profile" element={<Profile createNotification={createNotification} setProgress={setProgress} />} />
+           
 
           </Routes>
           <NotificationContainer />
