@@ -1,2 +1,5 @@
-node_modules
+Routier-backend/node_modules
+Routier-frontend/node_modules
+Routier-backend/.env
 .env
+node_modules
