@@ -134,7 +134,7 @@ Routier UI/UX: [Figma File](https://www.figma.com/file/7TcXpzmYLJZ0K9aL2BaTMU?ty
 
 Video Explanation: [Youtube](https://www.youtube.com/watch?v=F-mnxUuyMbM)
 
-Website Link: [routier.vercel.app](routier.vercel.app)
+Website Link: [https://my-routier.vercel.app/](https://my-routier.vercel.app/)
 
 ----------------------------------
 
